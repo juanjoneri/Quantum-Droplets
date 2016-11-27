@@ -3,7 +3,7 @@ The objective of this experiment is to recreate analogous behavior to quantum ph
 
 ## Project
 This project is an innitiative of LMU's Society of Physics Students chapter to visualize and better understand the De Broglie–Bohm, [pilot-wave](https://en.wikipedia.org/wiki/Pilot_wave) interpretation of Quantum Theory.<br>
-*For an introduction to Fluid analogs in quantum mechanics visit [Wikipedia's article](https://en.m.wikipedia.org/wiki/Fluid_analogs_in_quantum_mechanics)*
+*For an introduction to Fluid analogs in quantum mechanics visit this [Wikipedia article](https://en.m.wikipedia.org/wiki/Fluid_analogs_in_quantum_mechanics)*
 
 ## Materials
 - Arduino
