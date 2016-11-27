@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_884f7177450bd37fc5b6e9f6473440f712e36f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanj\.gradle\caches\modules-2\files-2.1\com.github.ytai.ioio\IOIOLibCore\5.07\34f07b578c6819579415ddbfc6c418c6008f7ef2\IOIOLibCore-5.07.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34f07b578c6819579415ddbfc6c418c6008f7ef2">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\IOIOLibCore-5.07_514224f11fbaaea22451e59dbf97bc1721452079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\juanj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_bd8aba7c07c9720a06c2b5492ba079746c2cdd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_0caf79ad736b4d18c23f8bb7670aa1f210394d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.github.ytai.ioio\IOIOLibAndroid\5.07\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="560f73c668e2dc95526f06d9a684fad99867f01b">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.github.ytai.ioio-IOIOLibAndroid-5.07_6eeb471d1452db00cc22f74511ad7cacb898cdec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_c9b7da19e1986610ea927f137eaace9d9d8e4deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_839d875aa667e846991596818598acced89b5126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.github.ytai.ioio\IOIOLibAndroidDevice\5.07\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ad262bc3131b4f369d6c13240ec9cfac6278732">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.github.ytai.ioio-IOIOLibAndroidDevice-5.07_76dd90010e58882c4767d686643bdd705acdc716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_0977d7e697ff9ce87d559beb099e7c08181c2443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.github.ytai.ioio\IOIOLibAndroidBluetooth\5.07\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="86d0c1118daa9f0f67304864c4603d1c55092461">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.github.ytai.ioio-IOIOLibAndroidBluetooth-5.07_99ef8076eb584b2cc160e57e647471064674cf58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\exploded-aar\com.github.ytai.ioio\IOIOLibAndroidAccessory\5.07\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e70120231d632313bd764c5ac45da1d87c6acd7">
+        <dex dex="F:\Projects\Android\IOIO\applications\IOIO package Nov16\App-IOIO0507\src\applications\HelloIOIO\build\intermediates\pre-dexed\debug\com.github.ytai.ioio-IOIOLibAndroidAccessory-5.07_93572d294f00880b5f188c7db6010080c97a3a00.jar" />
+    </item>
+
+</items>
