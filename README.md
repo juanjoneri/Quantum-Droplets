@@ -15,6 +15,7 @@ This project is an innitiative of LMU's Society of Physics Students chapter to v
 - Potentiometer
 - LED (x4)
 - Resistor 330Ohm (x3)
+
 ### experiment
 - 15cm Petri Dish ($8.49)
 - Silicone Oil 20 cst High Purity ($26)
