@@ -23,4 +23,4 @@ This project is an innitiative of LMU's Society of Physics Students chapter to v
 - Raspberry Pi Camera Module ($24.99)
 
 ## Circuit Diagram
-<img src="http://juanjoneri.me/img/Quantum/Diagram.PNG"/>
+<img src="http://juanjoneri.com/img/Quantum/Diagram.PNG"/>
